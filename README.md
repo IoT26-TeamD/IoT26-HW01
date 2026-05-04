@@ -2,5 +2,6 @@
 - Control Raspberry Pi Digital Outputs with Python (LED)
 
 
-https://github.com/user-attachments/assets/8842cc47-16e7-489b-87ac-cd787ac5dcf0
+<img width="400" height="225" alt="IoT26-HW01" src="https://github.com/user-attachments/assets/15340685-3c94-4426-9242-fc6e16adf784" />
+
 
